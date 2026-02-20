@@ -66,7 +66,7 @@ I build **systems that teams can scale on.**
 ### 🧠 Neural Drift — Camera → Motion UI
 <a href="https://ajay-kumawat-react-neural-drif-read-hand-gestures.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
-## 🍽️ OMNIFOOD — Responsive Food Delivery Landing Page
+### 🍽️ OMNIFOOD — Responsive Food Delivery Landing Page
 <a href="https://ajay-kumawat-omnifood-self-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
 ---
