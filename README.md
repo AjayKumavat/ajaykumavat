@@ -1,9 +1,9 @@
-<!-- 🔥 AJAY KUMAWAT — WORLD-CLASS GITHUB PROFILE -->
+<!-- 🔥 AJAY KUMAWAT — ELITE ENGINEERING PROFILE -->
 
 <h1 align="center">Ajay Kumawat</h1>
 
 <p align="center">
-  🏗️ Architecting Scalable Systems • ⚡ High-Performance APIs • 🧠 Clean Microservices
+  🏗️ Scalable Backend Architect • ⚡ Performance-Driven • 🧠 Microservices Specialist
 </p>
 
 <p align="center">
@@ -18,71 +18,78 @@
 
 ---
 
+## 🧭 ABOUT
+
+Senior Software Engineer crafting **production-grade distributed systems** with the .NET ecosystem.
+
+I specialize in turning **complex business problems → clean, scalable architectures**  
+with a strong focus on **performance, maintainability, and long-term engineering velocity**.
+
+I don’t just ship features —  
+I build **systems that teams can scale on.**
+
+---
+
 ## ⚡ ENGINEERING DNA
 
-🧩 Microservices under real production load  
-🔐 Secure & scalable REST APIs (.NET)  
-🚀 Monolith → Microservices migrations  
+🧩 Microservices in real production  
+🔐 Secure & high-performance APIs  
+🚀 Monolith → distributed transformations  
 📈 Database performance engineering  
-🧠 Mentorship • Code reviews • Architecture decisions  
-
-> I build systems that **scale silently, deploy safely, and survive team growth.**
+🧠 Mentorship & engineering culture  
 
 ---
 
 ## 🛠️ CORE STACK
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,react,ts,rabbitmq,linux,git" />
-
 </p>
 
 **Architecture:** Clean Architecture • CQRS • SOLID • DDD mindset  
-**Data:** MS SQL • PostgreSQL • PostGIS  
 **Async Systems:** Hangfire • RabbitMQ  
+**Data:** MS SQL • PostgreSQL • PostGIS  
 **Process:** Agile • CI/CD • DevOps-ready  
 
 ---
 
-## 🏆 IMPACT
+## 🏆 FEATURED BUILDS
 
-✔ Built production microservices from scratch  
-✔ Migrated legacy systems → scalable distributed architecture  
-✔ Designed high-performance real-time & GIS-based platforms  
-✔ Optimized mission-critical databases  
-✔ Led teams & enforced engineering standards  
+### 🛒 Restore — Full-Stack E-Commerce
 
----
+### 📄 PDFusion — PDF Power Toolkit
+<a href="https://pdfusion-go3c0bp7y-ajay-kumawats-projects-49c4d391.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
-## 🚀 FEATURED BUILDS
+### 🎮 Neon Tetris — Vibe-Coded Game Engine
+<a href="https://ajay-kumawat-react-modern-responsive-tetris-game.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
-🛒 **Restore — Full-Stack E-Commerce**  
-⚡ **PDFusion — High-performance PDF toolkit**  
-🎮 **Neon Tetris — Vibe-coded game engine**  
-🧠 **Neural Drift — Camera → motion experimental UI**
+### 🧠 Neural Drift — Camera → Motion UI
+<a href="https://ajay-kumawat-react-neural-drif-read-hand-gestures.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
+
+## 🍽️ OMNIFOOD — Responsive Food Delivery Landing Page
+<a href="https://ajay-kumawat-omnifood-self-six.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
 ---
 
 ## 🎯 CURRENT FOCUS
 
-⚙️ Scalable backend architecture  
-📦 Distributed systems  
-🤖 AI-assisted engineering workflows  
+⚙️ Distributed system design  
+📦 High-throughput backend workflows  
+🤖 AI-accelerated development  
 📊 Performance as a first-class feature  
 
 ---
 
-## 🧭 PHILOSOPHY
+## 🧠 PHILOSOPHY
 
-> Clarity > Cleverness  
->  
-> Code should be readable in **6 months**  
->  
-> Systems should scale with **teams — not just traffic**
+- Build for **change**, not for today  
+- Prefer **clarity over cleverness**  
+- Optimize for **developer velocity at scale**  
+- Performance is a **feature**, not a fix  
+- Great systems are **boring in production**
 
 ---
 
 <p align="center">
-  ⭐ Building production-grade software with calm, clean, and ruthless efficiency.
+  <b>Designing software that scales with confidence, not complexity.</b>
 </p>
