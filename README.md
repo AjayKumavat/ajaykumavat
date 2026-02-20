@@ -58,7 +58,7 @@ I build **systems that teams can scale on.**
 ### 🛒 Restore — Full-Stack E-Commerce
 
 ### 📄 PDFusion — PDF Power Toolkit
-<a href="https://pdfusion-go3c0bp7y-ajay-kumawats-projects-49c4d391.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
+<a href="https://ajay-kumawat-pdfusion-lake.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
 
 ### 🎮 Neon Tetris — Vibe-Coded Game Engine
 <a href="https://ajay-kumawat-react-modern-responsive-tetris-game.vercel.app/"><img src="https://img.shields.io/badge/LIVE-DEMO-22c55e?style=for-the-badge"/></a>
